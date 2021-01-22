@@ -1,0 +1,202 @@
+html {
+    font-size: 22px; 
+}
+
+body {
+    background-color: black;
+    font-family: Helvetica;
+    font-size: 22px;
+}
+
+header {
+    background-color: black;
+    align-items: center;   
+    border-bottom: 1px solid seashell;
+    height: 69px; 
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    
+       
+}
+
+a {
+    text-decoration: underline;
+    color: seashell;
+    opacity: 0.9;
+}
+
+.header img {
+    display: block;
+    max-width: 100%;
+    flex-grow: 1;
+    overflow: hidden;
+    float: left;
+    padding-left: 10px;
+    height: 50px;
+} 
+
+nav {
+    padding-right: 0;
+    float: right;
+}
+
+nav li {
+    text-align: center;
+    padding-right: 1rem;
+    display: inline-block;
+}
+
+#banner {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    display: flex;
+    padding-top: 240px;
+    
+}
+
+#banner div {
+    background-color: black;
+    width: 1200px;
+    margin: auto; 
+}
+
+h2, h4 {
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 0.9;
+    text-align: center;    
+}
+
+.telo{
+    width: 1000px;
+    margin: auto;
+    display: flex;    
+    justify-content: center;
+}
+
+.tea img {
+    width: 300px;
+    height: 200px;
+}
+ 
+.tea {
+    width: 300px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.tea h4 {
+    margin-top: 10px;
+}
+
+#cup {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cup div h2 {
+    text-align: center;
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 1;
+    padding-top: 60px;
+}
+
+#cup .content div {
+    width: 300px;
+    background-color: black;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+#cup div h3 {
+    text-align: center;
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 1; 
+}
+
+#cup div h4 {
+    text-align: center;
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 1; 
+}
+
+.content {
+    margin: auto;
+    display: flex;    
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.cozy {
+    height: 200px;
+    margin-top: 0;
+}
+.cozy h1 {
+    text-align: center;
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 1; 
+}
+
+.cozy h5 {
+    text-align: center;
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 1; 
+}
+
+footer h5 {
+    font-family: Helvetica;
+    color: seashell;
+    opacity: 1; 
+    text-align: left;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+ 
+        
+   
+    
+
+   
+    
+
+        
+         
+      
+        
+            
+
+
